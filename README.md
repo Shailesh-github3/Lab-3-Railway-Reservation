@@ -1,25 +1,37 @@
-# Lab-3-Railway-Reservation
+# Railway-Reservation-System
 
-### AIM:
-To develop the Railway Reservation System using Star UML tool.
-### PROBLEM STATEMENT:
-1. An E-Ticket (Electronic ticket) is a paperless electronic document used for ticketing
-passengers, particularly in the commercial airline, railway industries.
-2. An E-Ticket offers many advantages for both travelers and airline including security,
-flexibility and cost convenience. At the same time, it also provides the standard assurance of
-the traditional paper ticket, scaling choice, travel time options and other flexibilities.
-3. Passengers typically print out copies of their E-Ticket including confirmation E-mail
-and other document. All those documents can be replaced by pulling them out of the computer
-again and only a person with proper identification can actually use an E-Ticket.
-4. E-Ticket passengers can receive everything from gate assignments to cancellation or
-delay through E-mail, text messages sent to their home or business computers or to their cell
-phones.
-5. Finally, using E-Ticket is a more environmental friendly approach. The main purpose
-of the online bus ticket system is to provide another way for transnational customers to buy
-their tickets.
-### UML DIAGRAMS:
+# AIM
+ To Develope the Railway Reservation System using Star UML tool.
+# PROBLEM STATEMENT
+The purpose of a case study review is to provide an in-depth analysis of a specific book, film, or other media, offering critical insights that enhance the reader's understanding of the work. It serves to comprehensively examine the elements such as themes, characters, and narrative structure, enabling readers to grasp the complexities and nuances of the material. By situating the work within its broader cultural or historical context, the review helps to highlight its relevance and significance, allowing readers to interpret the author’s intentions more effectively. 
+
+# SOFTWARE REQUIREMENTS:
+Rational Rose,
+SQL 8.0
+# HARDWARE REQUIREMENTS:
+512MB RAM2, PENTIUM III PROCESSOR.
+
+# USE CASE DIAGRAM:
+![Railway use case](https://github.com/user-attachments/assets/0f6ee461-78ef-4198-a616-625811885a81)
+
+# CLASS DIAGRAM:
+![RAILWAY class](https://github.com/user-attachments/assets/dddcc53e-64de-406d-83ef-20d58c81128e)
 
 
+# SEQUENCE DIAGRAM:
+![RAILWAY sequence](https://github.com/user-attachments/assets/0ceaf958-8a3a-4cc3-85a7-d6e7f3e22416)
 
-### RESULT:
-Thus the project to develop e-ticketing system was developed using Star UML Software.
+# ACTIVITY DIAGRAM:
+
+![RAILWAY activity](https://github.com/user-attachments/assets/347dd378-5638-4c82-b32f-71ca9cc0fdc4)
+
+
+# PACKAGE DIAGRAM: 
+![RAILWAY package](https://github.com/user-attachments/assets/af1322c1-2e24-4708-a847-fe23070736ea)
+
+# COMMUNICATION DIAGRAM:
+![RAILWAY communication](https://github.com/user-attachments/assets/0773db92-6307-4789-a3f2-17ff9a8f1bdc)
+
+# Result:
+
+Thus the project to develope E-Ticketing system was developed using Star UML software.
